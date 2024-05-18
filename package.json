@@ -2,7 +2,7 @@
 	"name": "smoky-theme",
 	"displayName": "Smoky Theme",
 	"description": "Smoky theme with green syntax",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "elizarmelnikov",
 	"icon": "icon.jpg",
 	"repository": {
