@@ -7,7 +7,7 @@
 	"icon": "icon.jpg",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/WuarTi/smoky-theme"
 	},
 	"engines": {
 		"vscode": "^1.89.0"
