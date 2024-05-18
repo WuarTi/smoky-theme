@@ -1,0 +1,27 @@
+{
+	"name": "smoky-theme",
+	"displayName": "Smoky Theme",
+	"description": "Smoky theme with green syntax",
+	"version": "0.0.1",
+	"publisher": "elizarmelnikov",
+	"icon": "icon.jpg",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"engines": {
+		"vscode": "^1.89.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Smoky-Green Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Smoky-Green Theme-color-theme.json"
+			}
+		]
+	}
+}
